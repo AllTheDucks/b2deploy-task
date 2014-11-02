@@ -4,7 +4,8 @@ This code was previously maintained at [http://projects.oscelot.org/gf/project/b
 
 
 ## Structure
-This project has two parts, 
+This project has two parts,
+
 1. an Ant task for sending your Building Block to a Blackboard Development server, and;
 2. a servlet to extend Blackboard's "Starting Block" B2, so that it can receive the data from the Ant task, and deploy your Building Block.  This has been incorporated by Blackboard into the Starting Block, so as long as you're using a relatively recent version, you don't need to worry about this.
 
